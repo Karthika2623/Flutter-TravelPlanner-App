@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/365b7da0-feb5-48a7-95f7-9ef5becbd5aa)# travel_planner_app
+# travel_planner_app
 
 TravelPlanner is a cross-platform mobile app built using Flutter and powered by Firebase for backend services. It helps users plan, organize, and manage their trips with ease
 
